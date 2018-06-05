@@ -1,0 +1,15 @@
+D:\Programs\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+D:\Programs\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+D:\Programs\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+D:\Programs\Cleaner\Cleaner\obj\Debug\Cleaner.csprojAssemblyReference.cache
+D:\Programs\Cleaner\Cleaner\obj\Debug\MainWindow.g.cs
+D:\Programs\Cleaner\Cleaner\obj\Debug\App.g.cs
+D:\Programs\Cleaner\Cleaner\obj\Debug\Cleaner_MarkupCompile.cache
+D:\Programs\Cleaner\Cleaner\obj\Debug\Cleaner_MarkupCompile.lref
+D:\Programs\Cleaner\Cleaner\obj\Debug\MainWindow.baml
+D:\Programs\Cleaner\Cleaner\obj\Debug\Cleaner.g.resources
+D:\Programs\Cleaner\Cleaner\obj\Debug\Cleaner.Properties.Resources.resources
+D:\Programs\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.GenerateResource.cache
+D:\Programs\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CoreCompileInputs.cache
+D:\Programs\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+D:\Programs\Cleaner\Cleaner\obj\Debug\Cleaner.pdb

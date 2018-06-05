@@ -1,0 +1,14 @@
+﻿<Window x:Class="Cleaner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cleaner"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="425.61" Width="643.902">
+    <Grid>
+        <Button x:Name="TempFiles" Content="Clean Temp Files" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="99" Height="375" Click="TempFiles_Click"/>
+        <ListBox x:Name="lstBox" HorizontalAlignment="Left" Height="376" VerticalAlignment="Top" Width="514" Margin="114,10,0,0"/>
+
+    </Grid>
+</Window>
